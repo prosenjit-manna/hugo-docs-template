@@ -7,7 +7,14 @@ type = "docs"
 no_list = "true"
 +++
 
+{{< card header="**Imagine**" title="Artist and songwriter: John Lennon" subtitle="Co-writer: Yoko Ono"
+          footer="![SignatureJohnLennon](https://server.tld/…/signature.png 'Signature John Lennon')">}}
+Imagine there's no heaven, It's easy if you try<br/>
+No hell below us, above us only sky<br/>
+Imagine all the people living for today…
 
+…
+{{< /card >}}
 # Welcome to documentation template
 
 Hi! I'm your first Markdown file. You can edit in [StackEdit](https://stackedit.io/app) or you can learn markdown syntax. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.

@@ -3,6 +3,7 @@
 ## Dependency for mac 
 - brew install hugo
 - brew install go 
+- npm i 
   
 
 ## Setup 

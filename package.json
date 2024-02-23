@@ -1,0 +1,16 @@
+{
+  "name": "hugo-docs-template",
+  "version": "1.0.0",
+  "description": "## Dependency for mac  - brew install hugo - brew install go  - npm i",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.17",
+    "postcss-cli": "^11.0.0"
+  }
+}
